@@ -7,8 +7,7 @@ CO_OP_TRANSLATOR_METADATA:
   "language_code": "zh"
 }
 -->
-![Generative AI For Beginners](translations/zh
-/../../translated_images/repo-thumbnailv4-fixed.11f1ce6a85d01461c33c11943bb61f2b6d6dcce3a3b25cd27e627031f41f8e00.zh.png)
+![Generative AI For Beginners](/translated_images/repo-thumbnailv4-fixed.11f1ce6a85d01461c33c11943bb61f2b6d6dcce3a3b25cd27e627031f41f8e00.zh.png)
 
 
 ### 21节课程，教你构建生成式AI应用所需的全部知识
